@@ -1,5 +1,4 @@
-# Hello Everyone
-
+# Introduction
 This is a test project for the intro to GDI class, in preparation for the 
 Project Ricotta Hackathon with GDI.
 
