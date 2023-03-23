@@ -1,0 +1,1 @@
+This is my test Git and GitHub project for the GirlDevelopIt Project Ricotta Hackathon.
